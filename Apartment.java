@@ -1,0 +1,6 @@
+class Apartment extends Building{
+
+	
+	
+
+}
