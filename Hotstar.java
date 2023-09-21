@@ -1,5 +1,0 @@
-class Hotstar extends OttPlatform{
-	
-	
-	
-}
