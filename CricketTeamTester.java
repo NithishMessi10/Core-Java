@@ -15,6 +15,8 @@ class CricketTeamtester{
  team.addPlayerName("Jasprit Bumrah");
  team.addPlayerName("Kuldeep Yadav");
  team.addPlayerName("Mohamad Siraj");
+ team.addPlayerName("Mohamad Siraj");
+ team.addPlayerName("Mohamad Siraj");
  team.getPlayerNames();
  
  }

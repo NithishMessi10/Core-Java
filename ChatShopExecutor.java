@@ -13,7 +13,12 @@ chat.addChatName("Samosa");
 chat.addChatName("Nippat masala");
 chat.addChatName("Boti masala");
 chat.addChatName("pineapple  bhel");
+chat.addChatName("pineapple  bhel");
+//chat.addChatName("pineapple  bhel");
+//chat.addChatName("Boti masala");
 chat.getChatNames();
+
+
 
 
 }

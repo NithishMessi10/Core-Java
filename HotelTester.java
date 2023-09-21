@@ -14,6 +14,7 @@ hotel.addFoodName("bisibelebath");
 hotel.addFoodName("Parota");
 hotel.addFoodName("biryani");
 hotel.addFoodName("Rice");
+hotel.addFoodName("Rice");
 hotel.getMenu();
 
 }
