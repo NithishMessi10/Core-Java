@@ -1,0 +1,5 @@
+class Hospital{
+
+ Patient patient;
+
+}

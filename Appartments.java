@@ -1,0 +1,5 @@
+class Appartments{
+
+Flats villa;
+
+}

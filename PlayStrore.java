@@ -1,0 +1,4 @@
+class PlayStore{
+
+Application apps;
+}
