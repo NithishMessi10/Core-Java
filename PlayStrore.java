@@ -1,4 +1,0 @@
-class PlayStore{
-
-Application apps;
-}

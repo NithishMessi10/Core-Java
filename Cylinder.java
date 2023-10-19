@@ -1,4 +1,0 @@
-class Cylinder{
-Gas gas;
-
-}

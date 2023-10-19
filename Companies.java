@@ -1,4 +1,0 @@
-class Companies{
-Clients specilist ;
-
-}

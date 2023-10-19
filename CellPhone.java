@@ -1,4 +1,0 @@
-class CellPhone{
-
-Sim sim;
-}

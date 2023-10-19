@@ -1,3 +1,0 @@
-class Pen{
-  Refill refill;
-}

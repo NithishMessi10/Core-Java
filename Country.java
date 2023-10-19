@@ -1,6 +1,0 @@
-class Country{
- 
- 
- State state;
-
-}

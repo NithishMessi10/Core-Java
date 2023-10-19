@@ -1,7 +1,0 @@
-class Plant{
-
- Soil mannu;
- 
- 
- 
-}

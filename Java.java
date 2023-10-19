@@ -1,5 +1,0 @@
-class Java{
-
- JVM java;
-
-}

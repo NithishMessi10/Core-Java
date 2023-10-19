@@ -1,5 +1,0 @@
-class Train{
-
-Passengers variable;
-
-}
